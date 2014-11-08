@@ -5,10 +5,10 @@
  * A foundation off of which to build well-documented WordPress plugins that
  * also follow WordPress Coding Standards and PHP best practices.
  *
- * @package   ACF layout ting
- * @author    Your Name <email@example.com>
+ * @package   ACF - Page builder prototype
+ * @author    Your Name <david@atomicsmash.co.uk>
  * @license   GPL-2.0+
- * @link      http://example.com
+ * @link      https://github.com/AtomicSmash/ACF-page-builder
  * @copyright 2014 Your Name or Company Name
  *
  * @wordpress-plugin
@@ -22,7 +22,7 @@
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Domain Path:       /languages
- * GitHub Plugin URI: https://github.com/<owner>/<repo>
+ * GitHub Plugin URI: https://github.com/AtomicSmash/ACF-page-builder
  * WordPress-Plugin-Boilerplate: v2.6.1
  */
 
